@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMoviesStage2</string>
+    <string name="menu_item_popular_movies">popular movies</string>
+    <string name="menu_item_top_rated_movies">top rated</string>
+    <string name="ratings_tv">Ratings:</string>
+    <string name="movie_title">Title:</string>
+    <string name="release_data">Release Date:</string>
+    <string name="movie_rating">Rating:</string>
+    <string name="plot_synopsis">synopsis:</string>
+    <string name="menu_item_favorite">favorites</string>
+</resources>
